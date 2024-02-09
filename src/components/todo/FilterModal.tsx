@@ -13,7 +13,6 @@ const FilterModal = () => {
 
     const [position, setPosition] = useState("bottom")
 
-
     return (
         <DropdownMenu>
             <DropdownMenuTrigger asChild>
